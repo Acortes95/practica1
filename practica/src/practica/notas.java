@@ -1,6 +1,10 @@
 package practica;
 import java.util.Scanner;
 
+// comentarios de prueba de cambios github
+
+
+// 1 comentario de prueba
 
 public class notas {
 
@@ -9,7 +13,7 @@ public class notas {
 
 	Scanner entrada = new Scanner(System.in);
 	
-	
+// 2 comentario de prueba	
 	public void IngresaNotas() {
 
 		System.out.println("ingrese las notas del estudiante");
